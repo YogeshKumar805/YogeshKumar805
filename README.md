@@ -1,4 +1,4 @@
-                                                          - 👋 Hi, I’m @YogeshKumar805
+- 👋 Hi, I’m @YogeshKumar805
 - 👀 I’m interested in Bringing passion and proficiency to full-stack development, I'm a consistent coder on CodeChef coder with mastery in C++, Java, web technologies, and the MERN stack. My curiosity ignites for blockchain (Solidity, Web3), and I'm eager to contribute my skills to this ever-evolving IT industry. A fast learner and adaptable, I stay at the forefront of the industry, seeking opportunities to shape the future of the web.
 - 🌱 I’m currently learning Mern stack and Artificial intelligence and Machine Learning
 - 💞️ I’m looking to collaborate on Latest Project.
