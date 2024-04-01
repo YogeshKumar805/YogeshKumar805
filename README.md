@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, Yogesh Kumar</h1>
 <h3 align="center">A Fullstack developer from India</h3>
-<img align="right" alt="coding" width="400" src="[https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif](https://cdnp3.stackassets.com/fa6fd1e226152eba86fa65cef159cde3d5a40517/store/fd9cf709c1417e2cabff70f3d3d2b3be06d0becd1df0cccfc661d327a3a7/sale_229497_primary_image.jpg)"
+<img align="right" alt="coding" width="400" src="https://cdnp3.stackassets.com/fa6fd1e226152eba86fa65cef159cde3d5a40517/store/fd9cf709c1417e2cabff70f3d3d2b3be06d0becd1df0cccfc661d327a3a7/sale_229497_primary_image.jpg"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshkumar805&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj143p" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshkumar805&label=Profile%20views&color=0e75b6&style=flat" alt="YogeshKumar805" /> </p>
 
-<!-- <p align="left"> <a href="https://twitter.com/https://twitter.com/yogesh52370" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/@yogesh52370?logo=twitter&style=for-the-badge" alt="https://twitter.com/pankaj07__" /></a> </p> -->
+<!-- <p align="left"> <a href="https://twitter.com/https://twitter.com/yogesh52370" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/@yogesh52370?logo=twitter&style=for-the-badge" alt="https://twitter.com/yogesh52370" /></a> </p> -->
 
 - 🌱 I’m currently learning **Web development**
 
