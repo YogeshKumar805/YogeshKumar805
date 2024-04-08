@@ -10,6 +10,7 @@
 
 - 💬 Ask me about **my resume**
 
+- 📫 All about me **https://yogeshkumar92.netlify.app/**
 - 📫 How to reach me **bosyogeshkumar@gmail.com**
 
 
