@@ -183,6 +183,32 @@ I work across <b>LLMs (RAG/Agents), automation pipelines, microservices</b>, and
 </p>
 
 <hr/>
+<hr/>
+
+
+<p align="center">
+  <i>
+    ज्ञानं तदा शक्तिमान् भवति <br/>
+    यदा स्पष्टतया उद्देश्येन च उपयुज्यते।
+  </i>
+</p>
+
+<p align="center">
+  <i>
+    Knowledge becomes powerful when it is applied with clarity and purpose.
+  </i>
+</p>
+
+
+
+<p align="center">
+  <b> Yogesh Kumar ❤️</b><br/>
+  <sub>AI • ML • LLMs • Full Stack • Cloud</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+</p>
 
 
 <hr/>
