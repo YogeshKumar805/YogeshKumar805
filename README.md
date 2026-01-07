@@ -184,22 +184,8 @@ I work across <b>LLMs (RAG/Agents), automation pipelines, microservices</b>, and
 
 <hr/>
 
-<h2>🐍 Contribution Snake (Auto)</h2>
-
-<!--
-  To enable snake:
-  1) Create a workflow file: .github/workflows/snake.yml
-  2) Use Platane/snk action
-  3) Output branch: output
-  4) Keep the path below same
--->
-<p align="center">
-  <img alt="snake animation" src="https://github.com/YogeshKumar805/YogeshKumar805/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 <hr/>
-
-<h2>🎯 Weekly Development Breakdown (Auto via WakaTime)</h2>
 
 <!--
   OPTIONAL (Auto):
